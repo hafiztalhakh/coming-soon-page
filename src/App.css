@@ -60,6 +60,22 @@ textarea:hover, input:hover, textarea:active, input:active, textarea:focus, inpu
   box-shadow: none !important;
 }
 
+.list-unstyle {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  opacity: 0.8;
+  padding: 10px;
+}
+.link-unstyle{
+  text-decoration: none;
+  color: inherit;
+}
+.link-unstyle:hover{
+  text-decoration: none;
+  color: inherit;
+}
+
 /* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
