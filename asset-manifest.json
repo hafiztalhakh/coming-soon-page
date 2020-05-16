@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coming-soon-page/static/css/main.851d4deb.chunk.css",
+    "main.js": "/coming-soon-page/static/js/main.b7b66264.chunk.js",
+    "main.js.map": "/coming-soon-page/static/js/main.b7b66264.chunk.js.map",
+    "runtime-main.js": "/coming-soon-page/static/js/runtime-main.171755e8.js",
+    "runtime-main.js.map": "/coming-soon-page/static/js/runtime-main.171755e8.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/coming-soon-page/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.01623a25.chunk.js": "/coming-soon-page/static/js/2.01623a25.chunk.js",
+    "static/js/2.01623a25.chunk.js.map": "/coming-soon-page/static/js/2.01623a25.chunk.js.map",
+    "index.html": "/coming-soon-page/index.html",
+    "precache-manifest.ce9ef6d8d9366e731aa2f3ac8a10bd5c.js": "/coming-soon-page/precache-manifest.ce9ef6d8d9366e731aa2f3ac8a10bd5c.js",
+    "service-worker.js": "/coming-soon-page/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/coming-soon-page/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.851d4deb.chunk.css.map": "/coming-soon-page/static/css/main.851d4deb.chunk.css.map",
+    "static/js/2.01623a25.chunk.js.LICENSE.txt": "/coming-soon-page/static/js/2.01623a25.chunk.js.LICENSE.txt",
+    "static/media/mylogo-1.png": "/coming-soon-page/static/media/mylogo-1.572d5f01.png",
+    "static/media/App.css": "/coming-soon-page/static/media/parallax.541cf948.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.171755e8.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.01623a25.chunk.js",
+    "static/css/main.851d4deb.chunk.css",
+    "static/js/main.b7b66264.chunk.js"
+  ]
+}
